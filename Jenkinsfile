@@ -1,3 +1,7 @@
 @Library('robot-shared-library') _
 
-python("payment")
+env.COMPONENT="payment"
+env.APP="python"
+
+
+python()
