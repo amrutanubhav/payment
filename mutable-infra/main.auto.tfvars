@@ -1,3 +1,3 @@
 COMPONENT = "payment"
-PORT = 8080
+PORT = 80
 
